@@ -7,7 +7,7 @@
 <h2>Syntax Example</h2>
 <pre><code>var filteredList = myList.Where(item => item.Property == someValue);</code></pre>
 <h3>Projects</h3>
-<a href="https://github.com/Mohamed-Abdel-hamed/Filtering-Queries-in-LINQ.git">Projects</a>
+<a href="[https://github.com/Mohamed-Abdel-hamed/Filtering-Queries-in-LINQ.git](https://github.com/Mohamed-Abdel-hamed/Filtering-Queries-in-LINQ/tree/master)">Projects</a>
 
 <h2>Performance Considerations</h2>
 
